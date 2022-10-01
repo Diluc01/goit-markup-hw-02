@@ -1,0 +1,354 @@
+.logo{
+    position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 24px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+letter-spacing: 0.03em;
+
+color: #2196F3;
+}
+
+.first{
+    position: absolute;
+width: 42px;
+height: 16px;
+left: 457px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #2196F3;
+
+}
+
+.second{
+    position: absolute;
+width: 58px;
+height: 16px;
+left: 552px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #212121;
+}
+
+.third{
+    position: absolute;
+    width: 59px;
+    height: 16px;
+    left: 679px;
+    top: 32px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0.02em;
+    
+    color: #212121;
+    
+}
+
+.fourth{
+    position: absolute;
+width: 135px;
+height: 16px;
+left: 1078px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #2196F3;
+}
+
+.fifth{
+position: absolute;
+width: 122px;
+height: 16px;
+left: 1263px;
+top: 32px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 16px;
+letter-spacing: 0.02em;
+
+color: #757575;
+}
+
+.sixth{
+position: absolute;
+width: 20px;
+height: 26px;
+left: 521px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+}
+
+.seventh{
+    position: absolute;
+width: 76px;
+height: 26px;
+left: 602px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+
+.eight{
+    position: absolute;
+width: 39px;
+height: 26px;
+left: 765px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+
+.ninth{
+    position: absolute;
+width: 52px;
+height: 26px;
+left: 890px;
+top: 180px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+text-align: center;
+letter-spacing: 0.03em;
+
+color: #212121;
+}
+
+.tenth{
+    position: absolute;
+    width: 77px;
+    height: 26px;
+    left: 1003px;
+    top: 180px;
+    
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 26px;
+    /* identical to box height, or 162% */
+    text-align: center;
+    letter-spacing: 0.03em;
+    
+    color: #212121;
+}
+
+.eleven{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 215px;
+top: 262px;
+
+background: url(.jpg)
+}
+
+.twelve{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 615px;
+    top: 262px;
+    
+    background: url(.jpg);
+}
+
+.thirdteen{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 1015px;
+    top: 262px;
+    
+    background: url(.jpg);
+}
+
+.fourteen{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 215px;
+    top: 696px;
+    
+    background: url(.jpg);
+}
+
+.fifthteen{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 615px;
+    top: 696px;
+    
+    background: url(.jpg);
+}
+
+.sixthteen{
+    position: absolute;
+width: 370px;
+height: 294px;
+left: 1015px;
+top: 696px;
+
+background: url(.jpg);
+}
+
+.seventeen{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 215px;
+    top: 1130px;
+    
+    background: url(.jpg);
+}
+
+.eightteen{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 615px;
+    top: 1130px;
+    
+    background: url(.jpg);
+}
+
+.nineteen{
+    position: absolute;
+    width: 370px;
+    height: 294px;
+    left: 1015px;
+    top: 1130px;
+    
+    background: url(.jpg);
+}
+
+.twenty{
+    position: absolute;
+width: 145px;
+height: 31px;
+left: 215px;
+top: 1688px;
+
+font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+/* identical to box height */
+letter-spacing: 0.03em;
+
+color: #2196F3;
+}
+
+.twenty-one{
+    position: absolute;
+width: 231px;
+height: 21px;
+left: 215px;
+top: 1724px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+letter-spacing: 0.03em;
+
+color: #FFFFFF;
+
+}
+
+.twenty-two{
+    position: absolute;
+width: 231px;
+height: 21px;
+left: 215px;
+top: 1774px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* or 171% */
+letter-spacing: 0.03em;
+
+color: rgba(255, 255, 255, 0.6);
+}
+
+.twenty-three{
+    position: absolute;
+width: 1600px;
+height: 80px;
+left: 0px;
+top: 0px;
+
+
+}
